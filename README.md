@@ -1,0 +1,24 @@
+# Herramientas de UML
+
+Herramientas Utilizados:
+
+## Codigo:
+
+### Mermaid:
+https://mermaid.live/edit#pako:eNptkkFvm0AQhf8K2hNWsQXG2GQPkZqk7amyDzlFXKa7E7wt7NBhiVJb_u9dCNhyaw6IFd-befNmj0KRRiFFi787tAqfDJQMdcGFDYLHyqB1OL-__9w0MmixQqUMWeAdk-6Uo9Do2U1WkX01XAM_Ut0whAqYjaMR9ogHP-2gBcYKZNAwKfSHHZQU1mQdRYED_okORsnE9roHsIpk8AaV0cDPH1xouxrZ6wb5qILKTXUC8E1-gIaPP0EwVJn7evOLj5GhEDpHbA7QjzubFGcPvWgYs_F-v7z7wdo-imcG24K60oyjPkCLT-A5GZQdsLe9ZY02pP49u1gaqUuHAfg2SDT4HtsrQV_do2P4l9h7C2Py1xKsWjwnwqj2cLgVySWRienX4swb3QzjnMVXqPxO_mP_tdlSZZTxNraO6Ts60jRsfjJptYhEyUYL6bjDSPjN1tAfxbEHCuH2WGMhpP_0Wf4qRGFPXtOAfSGqJxlTV-6FfAU_dSS6RoObbvgZ8c3Q39LOOiHTNBtqCHkU70Imaba4y_Klf5IkTpZJHok_Qq43izSOs02cr_PNapNnp0gchq7xIl9lqyy_S9dxnqbJMjv9Bc4IIn8
+
+
+### Sequence Diagram
+https://sequencediagram.org/
+
+
+## Dibujo
+
+### Draw.io
+https://app.diagrams.net/
+
+
+
+
+
+
